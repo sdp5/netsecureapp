@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<database>
+<host>localhost</host>
+<name>netsecureapp</name>
+<user>dbuser</user>
+<pwd>password</pwd>
+<tableprefix>nsa_</tableprefix>
+</database>
