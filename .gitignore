@@ -26,3 +26,6 @@ extras/documentation
 
 # Application
 session/
+
+# IDE
+.idea/
